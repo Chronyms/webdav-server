@@ -62,3 +62,8 @@
 ::1 - schnupper [17/Mar/2016:14:07:06 +0100] "GET /favicon.ico HTTP/1.1" 404 209
 ::1 - schnupper [17/Mar/2016:14:07:14 +0100] "GET / HTTP/1.1" 200 4
 ::1 - schnupper [17/Mar/2016:14:07:14 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - schnupper [17/Mar/2016:15:08:31 +0100] "GET / HTTP/1.1" 401 381
+::1 - schnupper [17/Mar/2016:15:08:31 +0100] "GET / HTTP/1.1" 304 -
+::1 - schnupper [17/Mar/2016:15:22:00 +0100] "GET / HTTP/1.1" 401 381
+::1 - schnupper [17/Mar/2016:15:22:00 +0100] "GET / HTTP/1.1" 200 4
+::1 - schnupper [17/Mar/2016:15:22:00 +0100] "GET /favicon.ico HTTP/1.1" 404 209

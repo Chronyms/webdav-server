@@ -154,3 +154,25 @@ uth_digest:notice] [pid 10272:tid 460] AH01757: generating secret for digest aut
 [Thu Mar 17 14:07:42.021713 2016] [mpm_winnt:notice] [pid 11192:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Thu Mar 17 14:07:44.022766 2016] [mpm_winnt:notice] [pid 10272:tid 460] AH00364: Child: All worker threads have exited.
 [Thu Mar 17 14:07:44.046645 2016] [mpm_winnt:notice] [pid 11192:tid 444] AH00430: Parent: Child process 10272 exited successfully.
+[Thu Mar 17 15:08:25.484305 2016] [auth_digest:notice] [pid 2876:tid 432] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 15:08:25.499928 2016] [mpm_winnt:notice] [pid 2876:tid 432] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 15:08:25.499928 2016] [mpm_winnt:notice] [pid 2876:tid 432] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 15:08:25.499928 2016] [core:notice] [pid 2876:tid 432] AH00094: Command line: 'C:\\webdav-server\\bin\\httpd.exe -d C:/webdav-server'
+[Thu Mar 17 15:08:25.499928 2016] [mpm_winnt:notice] [pid 2876:tid 432] AH00418: Parent: Created child process 7568
+Apache server shutdown initiated...
+uth_digest:notice] [pid 7568:tid 468] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 15:08:25.765550 2016] [mpm_winnt:notice] [pid 7568:tid 468] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 15:08:35.569478 2016] [mpm_winnt:notice] [pid 2876:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 15:08:39.022528 2016] [mpm_winnt:notice] [pid 7568:tid 468] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 15:08:39.038034 2016] [mpm_winnt:notice] [pid 2876:tid 432] AH00430: Parent: Child process 7568 exited successfully.
+[Thu Mar 17 15:21:55.347033 2016] [auth_digest:notice] [pid 11864:tid 432] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 15:21:55.362645 2016] [mpm_winnt:notice] [pid 11864:tid 432] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 15:21:55.362645 2016] [mpm_winnt:notice] [pid 11864:tid 432] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 15:21:55.362645 2016] [core:notice] [pid 11864:tid 432] AH00094: Command line: 'C:\\webdav-server\\bin\\httpd.exe -d C:/webdav-server'
+[Thu Mar 17 15:21:55.362645 2016] [mpm_winnt:notice] [pid 11864:tid 432] AH00418: Parent: Created child process 1140
+Apache server shutdown initiated...
+uth_digest:notice] [pid 1140:tid 472] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 15:21:55.581397 2016] [mpm_winnt:notice] [pid 1140:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 15:22:05.710327 2016] [mpm_winnt:notice] [pid 11864:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 15:22:07.741727 2016] [mpm_winnt:notice] [pid 1140:tid 472] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 15:22:07.757304 2016] [mpm_winnt:notice] [pid 11864:tid 432] AH00430: Parent: Child process 1140 exited successfully.
