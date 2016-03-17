@@ -1,156 +1,54 @@
-# This file maps Internet media types to unique file extension(s).
-# Although created for httpd, this file is used by many software systems
-# and has been placed in the public domain for unlimited redisribution.
-#
-# The table below contains both registered and (common) unregistered types.
-# A type that has no unique extension can be ignored -- they are listed
-# here to guide configurations toward known types and to make it easier to
-# identify "new" types.  File extensions are also commonly used to indicate
-# content languages and encodings, so choose them carefully.
-#
-# Internet media types should be registered as described in RFC 4288.
-# The registry is at <http://www.iana.org/assignments/media-types/>.
-#
-# MIME type (lowercased)			Extensions
-# ============================================	==========
-# application/1d-interleaved-parityfec
-# application/3gpp-ims+xml
-# application/activemessage
 application/andrew-inset			ez
-# application/applefile
 application/applixware				aw
 application/atom+xml				atom
 application/atomcat+xml				atomcat
-# application/atomicmail
 application/atomsvc+xml				atomsvc
-# application/auth-policy+xml
-# application/batch-smtp
-# application/beep+xml
-# application/calendar+xml
-# application/cals-1840
-# application/ccmp+xml
 application/ccxml+xml				ccxml
 application/cdmi-capability			cdmia
 application/cdmi-container			cdmic
 application/cdmi-domain				cdmid
 application/cdmi-object				cdmio
 application/cdmi-queue				cdmiq
-# application/cea-2018+xml
-# application/cellml+xml
-# application/cfw
-# application/cnrp+xml
-# application/commonground
-# application/conference-info+xml
-# application/cpl+xml
-# application/csta+xml
-# application/cstadata+xml
 application/cu-seeme				cu
-# application/cybercash
 application/davmount+xml			davmount
-# application/dca-rft
-# application/dec-dx
-# application/dialog-info+xml
-# application/dicom
-# application/dns
 application/docbook+xml				dbk
-# application/dskpp+xml
 application/dssc+der				dssc
 application/dssc+xml				xdssc
-# application/dvcs
 application/ecmascript				ecma
-# application/edi-consent
-# application/edi-x12
-# application/edifact
 application/emma+xml				emma
-# application/epp+xml
 application/epub+zip				epub
-# application/eshop
-# application/example
 application/exi					exi
-# application/fastinfoset
-# application/fastsoap
-# application/fits
 application/font-tdpfr				pfr
-# application/framework-attributes+xml
 application/gml+xml				gml
 application/gpx+xml				gpx
 application/gxf					gxf
-# application/h224
-# application/held+xml
-# application/http
 application/hyperstudio				stk
-# application/ibe-key-request+xml
-# application/ibe-pkg-reply+xml
-# application/ibe-pp-data
-# application/iges
-# application/im-iscomposing+xml
-# application/index
-# application/index.cmd
-# application/index.obj
-# application/index.response
-# application/index.vnd
 application/inkml+xml				ink inkml
-# application/iotp
 application/ipfix				ipfix
-# application/ipp
-# application/isup
 application/java-archive			jar
 application/java-serialized-object		ser
 application/java-vm				class
 application/javascript				js
 application/json				json
 application/jsonml+json				jsonml
-# application/kpml-request+xml
-# application/kpml-response+xml
 application/lost+xml				lostxml
 application/mac-binhex40			hqx
 application/mac-compactpro			cpt
-# application/macwriteii
 application/mads+xml				mads
 application/marc				mrc
 application/marcxml+xml				mrcx
 application/mathematica				ma nb mb
-# application/mathml-content+xml
-# application/mathml-presentation+xml
 application/mathml+xml				mathml
-# application/mbms-associated-procedure-description+xml
-# application/mbms-deregister+xml
-# application/mbms-envelope+xml
-# application/mbms-msk+xml
-# application/mbms-msk-response+xml
-# application/mbms-protection-description+xml
-# application/mbms-reception-report+xml
-# application/mbms-register+xml
-# application/mbms-register-response+xml
-# application/mbms-user-service-description+xml
 application/mbox				mbox
-# application/media_control+xml
 application/mediaservercontrol+xml		mscml
 application/metalink+xml			metalink
 application/metalink4+xml			meta4
 application/mets+xml				mets
-# application/mikey
 application/mods+xml				mods
-# application/moss-keys
-# application/moss-signature
-# application/mosskey-data
-# application/mosskey-request
 application/mp21				m21 mp21
 application/mp4					mp4s
-# application/mpeg4-generic
-# application/mpeg4-iod
-# application/mpeg4-iod-xmt
-# application/msc-ivr+xml
-# application/msc-mixer+xml
 application/msword				doc dot
 application/mxf					mxf
-# application/nasdata
-# application/news-checkgroups
-# application/news-groupinfo
-# application/news-transmission
-# application/nss
-# application/ocsp-request
-# application/ocsp-response
 application/octet-stream	bin dms lrf mar so dist distz pkg bpk dump elc deploy
 application/oda					oda
 application/oebps-package+xml			opf
@@ -158,15 +56,11 @@ application/ogg					ogx
 application/omdoc+xml				omdoc
 application/onenote				onetoc onetoc2 onetmp onepkg
 application/oxps				oxps
-# application/parityfec
 application/patch-ops-error+xml			xer
 application/pdf					pdf
 application/pgp-encrypted			pgp
-# application/pgp-keys
 application/pgp-signature			asc sig
 application/pics-rules				prf
-# application/pidf+xml
-# application/pidf-diff+xml
 application/pkcs10				p10
 application/pkcs7-mime				p7m p7c
 application/pkcs7-signature			p7s
@@ -177,24 +71,14 @@ application/pkix-crl				crl
 application/pkix-pkipath			pkipath
 application/pkixcmp				pki
 application/pls+xml				pls
-# application/poc-settings+xml
 application/postscript				ai eps ps
-# application/prs.alvestrand.titrax-sheet
 application/prs.cww				cww
-# application/prs.nprend
-# application/prs.plucker
-# application/prs.rdf-xml-crypt
-# application/prs.xsf+xml
 application/pskc+xml				pskcxml
-# application/qsig
 application/rdf+xml				rdf
 application/reginfo+xml				rif
 application/relax-ng-compact-syntax		rnc
-# application/remote-printing
 application/resource-lists+xml			rl
 application/resource-lists-diff+xml		rld
-# application/riscos
-# application/rlmi+xml
 application/rls-services+xml			rs
 application/rpki-ghostbusters			gbr
 application/rpki-manifest			mft
@@ -236,17 +120,6 @@ application/srgs+xml				grxml
 application/sru+xml				sru
 application/ssdl+xml				ssdl
 application/ssml+xml				ssml
-# application/tamp-apex-update
-# application/tamp-apex-update-confirm
-# application/tamp-community-update
-# application/tamp-community-update-confirm
-# application/tamp-error
-# application/tamp-sequence-adjust
-# application/tamp-sequence-adjust-confirm
-# application/tamp-status-query
-# application/tamp-status-response
-# application/tamp-update
-# application/tamp-update-confirm
 application/tei+xml				tei teicorpus
 application/thraud+xml				tfi
 # application/timestamp-query
@@ -1518,9 +1391,6 @@ video/jpeg					jpgv
 # video/jpeg2000
 video/jpm					jpm jpgm
 video/mj2					mj2 mjp2
-# video/mp1s
-# video/mp2p
-# video/mp2t
 video/mp4					mp4 mp4v mpg4
 # video/mp4v-es
 video/mpeg					mpeg mpg mpe m1v m2v
@@ -1531,22 +1401,11 @@ video/ogg					ogv
 # video/parityfec
 # video/pointer
 video/quicktime					qt mov
-# video/raw
-# video/rtp-enc-aescm128
-# video/rtx
-# video/smpte292m
-# video/ulpfec
-# video/vc1
-# video/vnd.cctv
 video/vnd.dece.hd				uvh uvvh
 video/vnd.dece.mobile				uvm uvvm
-# video/vnd.dece.mp4
 video/vnd.dece.pd				uvp uvvp
 video/vnd.dece.sd				uvs uvvs
 video/vnd.dece.video				uvv uvvv
-# video/vnd.directv.mpeg
-# video/vnd.directv.mpeg-tts
-# video/vnd.dlna.mpeg-tts
 video/vnd.dvb.file				dvb
 video/vnd.fvt					fvt
 # video/vnd.hns.video
