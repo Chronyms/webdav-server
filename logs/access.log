@@ -1,0 +1,64 @@
+::1 - - [17/Mar/2016:12:25:23 +0100] "GET / HTTP/1.1" 200 46 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:25:23 +0100] "GET /favicon.ico HTTP/1.1" 404 209 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:25:38 +0100] "GET /webdav/ HTTP/1.1" 404 205 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:25:57 +0100] "GET /webdav/ HTTP/1.1" 404 205 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:25:57 +0100] "GET /favicon.ico HTTP/1.1" 404 209 "http://localhost/webdav/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:26:11 +0100] "GET /webdav/ HTTP/1.1" 404 205 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:26:11 +0100] "GET /favicon.ico HTTP/1.1" 404 209 "http://localhost/webdav/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:30:24 +0100] "GET / HTTP/1.1" 200 46 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:30:24 +0100] "GET /favicon.ico HTTP/1.1" 404 209 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:30:27 +0100] "GET /webdav/ HTTP/1.1" 404 205 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:30:30 +0100] "GET /webdav/ HTTP/1.1" 404 205 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:31:16 +0100] "GET /webdav/ HTTP/1.1" 404 205 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+::1 - - [17/Mar/2016:12:41:36 +0100] "GET / HTTP/1.1" 200 241
+::1 - - [17/Mar/2016:12:41:37 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [17/Mar/2016:12:41:39 +0100] "GET /123.txt HTTP/1.1" 200 4
+::1 - - [17/Mar/2016:12:41:42 +0100] "GET /htdocs/ HTTP/1.1" 200 46
+::1 - - [17/Mar/2016:12:45:37 +0100] "GET / HTTP/1.1" 200 241
+::1 - - [17/Mar/2016:12:47:27 +0100] "GET / HTTP/1.1" 403 209
+::1 - - [17/Mar/2016:12:50:32 +0100] "GET / HTTP/1.1" 200 4
+::1 - - [17/Mar/2016:12:50:32 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [17/Mar/2016:12:50:48 +0100] "OPTIONS / HTTP/1.1" 200 -
+::1 - - [17/Mar/2016:12:50:48 +0100] "PROPFIND / HTTP/1.1" 405 236
+::1 - - [17/Mar/2016:12:50:48 +0100] "PROPFIND / HTTP/1.1" 405 236
+::1 - - [17/Mar/2016:12:50:48 +0100] "PROPFIND / HTTP/1.1" 405 236
+::1 - - [17/Mar/2016:13:57:43 +0100] "GET / HTTP/1.1" 304 -
+::1 - - [17/Mar/2016:13:57:44 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [17/Mar/2016:13:57:51 +0100] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [17/Mar/2016:13:58:05 +0100] "OPTIONS / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2016:13:58:05 +0100] "PROPFIND / HTTP/1.1" 405 236
+127.0.0.1 - - [17/Mar/2016:13:58:05 +0100] "PROPFIND / HTTP/1.1" 405 236
+127.0.0.1 - - [17/Mar/2016:13:58:05 +0100] "PROPFIND / HTTP/1.1" 405 236
+127.0.0.1 - - [17/Mar/2016:13:58:28 +0100] "GET / HTTP/1.1" 200 4
+::1 - - [17/Mar/2016:13:59:36 +0100] "OPTIONS /webdav HTTP/1.1" 200 -
+::1 - - [17/Mar/2016:13:59:36 +0100] "PROPFIND /webdav HTTP/1.1" 404 204
+::1 - - [17/Mar/2016:13:59:36 +0100] "PROPFIND /webdav HTTP/1.1" 404 204
+::1 - - [17/Mar/2016:13:59:36 +0100] "PROPFIND /webdav HTTP/1.1" 404 204
+::1 - - [17/Mar/2016:13:59:36 +0100] "PROPFIND /webdav HTTP/1.1" 404 204
+127.0.0.1 - - [17/Mar/2016:14:01:40 +0100] "OPTIONS /htdocs HTTP/1.1" 301 232
+127.0.0.1 - - [17/Mar/2016:14:01:40 +0100] "OPTIONS /htdocs/ HTTP/1.1" 200 -
+127.0.0.1 - - [17/Mar/2016:14:01:40 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+127.0.0.1 - - [17/Mar/2016:14:01:40 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+127.0.0.1 - - [17/Mar/2016:14:01:40 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+127.0.0.1 - - [17/Mar/2016:14:01:40 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+127.0.0.1 - - [17/Mar/2016:14:01:40 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+127.0.0.1 - - [17/Mar/2016:14:01:40 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+::1 - - [17/Mar/2016:14:02:13 +0100] "OPTIONS /htdocs HTTP/1.1" 301 232
+::1 - - [17/Mar/2016:14:02:13 +0100] "OPTIONS /htdocs/ HTTP/1.1" 200 -
+::1 - - [17/Mar/2016:14:02:13 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+::1 - - [17/Mar/2016:14:02:13 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs HTTP/1.1" 301 232
+::1 - - [17/Mar/2016:14:02:14 +0100] "PROPFIND /htdocs/ HTTP/1.1" 405 243
+::1 - - [17/Mar/2016:14:06:57 +0100] "GET / HTTP/1.1" 401 381
+::1 - schnupper [17/Mar/2016:14:07:06 +0100] "GET / HTTP/1.1" 200 4
+::1 - schnupper [17/Mar/2016:14:07:06 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - schnupper [17/Mar/2016:14:07:14 +0100] "GET / HTTP/1.1" 200 4
+::1 - schnupper [17/Mar/2016:14:07:14 +0100] "GET /favicon.ico HTTP/1.1" 404 209

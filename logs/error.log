@@ -1,0 +1,156 @@
+[Thu Mar 17 12:21:20.178571 2016] [auth_digest:notice] [pid 6580:tid 440] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:21:20.178571 2016] [mpm_winnt:notice] [pid 6580:tid 440] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:21:20.178571 2016] [mpm_winnt:notice] [pid 6580:tid 440] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:21:20.178571 2016] [core:notice] [pid 6580:tid 440] AH00094: Command line: 'httpd.exe -d C:/apache'
+[Thu Mar 17 12:21:20.178571 2016] [mpm_winnt:notice] [pid 6580:tid 440] AH00418: Parent: Created child process 6584
+Apache server interrupted...
+016] [auth_digest:notice] [pid 6584:tid 480] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:21:20.428594 2016] [mpm_winnt:notice] [pid 6584:tid 480] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:21:21.787989 2016] [mpm_winnt:notice] [pid 6580:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server shutdown initiated...
+[Thu Mar 17 12:21:23.819343 2016] [mpm_winnt:notice] [pid 6584:tid 480] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:21:23.834957 2016] [mpm_winnt:notice] [pid 6580:tid 440] AH00430: Parent: Child process 6584 exited successfully.
+[Thu Mar 17 12:21:39.054911 2016] [auth_digest:notice] [pid 9928:tid 472] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:21:39.070535 2016] [mpm_winnt:notice] [pid 9928:tid 472] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:21:39.070535 2016] [mpm_winnt:notice] [pid 9928:tid 472] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:21:39.070535 2016] [core:notice] [pid 9928:tid 472] AH00094: Command line: 'C:\\apache\\bin\\httpd.exe -d C:/apache'
+[Thu Mar 17 12:21:39.070535 2016] [mpm_winnt:notice] [pid 9928:tid 472] AH00418: Parent: Created child process 6296
+Apache server shutdown initiated...
+uth_digest:notice] [pid 6296:tid 440] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:21:39.445542 2016] [mpm_winnt:notice] [pid 6296:tid 440] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:25:11.476782 2016] [mpm_winnt:notice] [pid 9928:tid 472] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:25:13.508108 2016] [mpm_winnt:notice] [pid 6296:tid 440] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:25:13.523702 2016] [mpm_winnt:notice] [pid 9928:tid 472] AH00430: Parent: Child process 6296 exited successfully.
+[Thu Mar 17 12:25:20.097277 2016] [auth_digest:notice] [pid 6364:tid 504] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:25:20.097277 2016] [mpm_winnt:notice] [pid 6364:tid 504] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:25:20.097277 2016] [mpm_winnt:notice] [pid 6364:tid 504] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:25:20.097277 2016] [core:notice] [pid 6364:tid 504] AH00094: Command line: 'C:\\apache\\bin\\httpd.exe -d C:/apache'
+[Thu Mar 17 12:25:20.097277 2016] [mpm_winnt:notice] [pid 6364:tid 504] AH00418: Parent: Created child process 8496
+Apache server shutdown initiated...
+uth_digest:notice] [pid 8496:tid 456] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:25:20.503549 2016] [mpm_winnt:notice] [pid 8496:tid 456] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:26:00.144270 2016] [mpm_winnt:notice] [pid 6364:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:26:04.363207 2016] [mpm_winnt:notice] [pid 8496:tid 456] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:26:04.378842 2016] [mpm_winnt:notice] [pid 6364:tid 504] AH00430: Parent: Child process 8496 exited successfully.
+[Thu Mar 17 12:26:09.354273 2016] [auth_digest:notice] [pid 2932:tid 456] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:26:09.354273 2016] [mpm_winnt:notice] [pid 2932:tid 456] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:26:09.354273 2016] [mpm_winnt:notice] [pid 2932:tid 456] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:26:09.354273 2016] [core:notice] [pid 2932:tid 456] AH00094: Command line: 'C:\\apache\\bin\\httpd.exe -d C:/apache'
+[Thu Mar 17 12:26:09.354273 2016] [mpm_winnt:notice] [pid 2932:tid 456] AH00418: Parent: Created child process 1028
+Apache server shutdown initiated...
+uth_digest:notice] [pid 1028:tid 472] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:26:09.635527 2016] [mpm_winnt:notice] [pid 1028:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:28:45.225945 2016] [mpm_winnt:notice] [pid 2932:tid 456] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:28:47.257319 2016] [mpm_winnt:notice] [pid 1028:tid 472] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:28:47.272966 2016] [mpm_winnt:notice] [pid 2932:tid 456] AH00430: Parent: Child process 1028 exited successfully.
+[Thu Mar 17 12:30:20.343885 2016] [auth_digest:notice] [pid 8096:tid 512] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:30:20.359493 2016] [mpm_winnt:notice] [pid 8096:tid 512] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:30:20.359493 2016] [mpm_winnt:notice] [pid 8096:tid 512] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:30:20.359493 2016] [core:notice] [pid 8096:tid 512] AH00094: Command line: 'httpd.exe -d C:/apache'
+[Thu Mar 17 12:30:20.359493 2016] [mpm_winnt:notice] [pid 8096:tid 512] AH00418: Parent: Created child process 5296
+Apache server shutdown initiated...
+uth_digest:notice] [pid 5296:tid 416] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:30:20.578263 2016] [mpm_winnt:notice] [pid 5296:tid 416] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:30:34.540742 2016] [mpm_winnt:notice] [pid 8096:tid 512] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:30:37.979711 2016] [mpm_winnt:notice] [pid 5296:tid 416] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:30:37.995325 2016] [mpm_winnt:notice] [pid 8096:tid 512] AH00430: Parent: Child process 5296 exited successfully.
+[Thu Mar 17 12:31:14.354105 2016] [auth_digest:notice] [pid 8680:tid 480] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:31:14.354105 2016] [mpm_winnt:notice] [pid 8680:tid 480] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:31:14.354105 2016] [mpm_winnt:notice] [pid 8680:tid 480] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:31:14.354105 2016] [core:notice] [pid 8680:tid 480] AH00094: Command line: 'C:\\apache\\bin\\httpd.exe -d C:/apache'
+[Thu Mar 17 12:31:14.354105 2016] [mpm_winnt:notice] [pid 8680:tid 480] AH00418: Parent: Created child process 4620
+Apache server shutdown initiated...
+uth_digest:notice] [pid 4620:tid 140] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:31:14.588466 2016] [mpm_winnt:notice] [pid 4620:tid 140] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:31:51.458111 2016] [mpm_winnt:notice] [pid 8680:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:31:53.489404 2016] [mpm_winnt:notice] [pid 4620:tid 140] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:31:53.505014 2016] [mpm_winnt:notice] [pid 8680:tid 480] AH00430: Parent: Child process 4620 exited successfully.
+[Thu Mar 17 12:31:58.605123 2016] [auth_digest:notice] [pid 5272:tid 504] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:31:58.605123 2016] [mpm_winnt:notice] [pid 5272:tid 504] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:31:58.605123 2016] [mpm_winnt:notice] [pid 5272:tid 504] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:31:58.605123 2016] [core:notice] [pid 5272:tid 504] AH00094: Command line: 'C:\\apache\\bin\\httpd.exe -d C:/apache'
+[Thu Mar 17 12:31:58.605123 2016] [mpm_winnt:notice] [pid 5272:tid 504] AH00418: Parent: Created child process 9168
+Apache server shutdown initiated...
+uth_digest:notice] [pid 9168:tid 464] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:31:59.042578 2016] [mpm_winnt:notice] [pid 9168:tid 464] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:32:39.607705 2016] [mpm_winnt:notice] [pid 5272:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:32:41.625575 2016] [mpm_winnt:notice] [pid 9168:tid 464] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:32:41.653575 2016] [mpm_winnt:notice] [pid 5272:tid 504] AH00430: Parent: Child process 9168 exited successfully.
+[Thu Mar 17 12:32:46.390714 2016] [auth_digest:notice] [pid 1784:tid 444] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:32:46.406339 2016] [mpm_winnt:notice] [pid 1784:tid 444] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:32:46.406339 2016] [mpm_winnt:notice] [pid 1784:tid 444] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:32:46.406339 2016] [core:notice] [pid 1784:tid 444] AH00094: Command line: 'C:\\apache\\bin\\httpd.exe -d C:/apache'
+[Thu Mar 17 12:32:46.406339 2016] [mpm_winnt:notice] [pid 1784:tid 444] AH00418: Parent: Created child process 2476
+Apache server shutdown initiated...
+uth_digest:notice] [pid 2476:tid 472] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:32:46.812600 2016] [mpm_winnt:notice] [pid 2476:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:38:10.479554 2016] [mpm_winnt:notice] [pid 1784:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:38:13.932727 2016] [mpm_winnt:notice] [pid 2476:tid 472] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:38:13.948405 2016] [mpm_winnt:notice] [pid 1784:tid 444] AH00430: Parent: Child process 2476 exited successfully.
+[Thu Mar 17 12:41:32.609522 2016] [auth_digest:notice] [pid 9812:tid 488] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:41:32.609522 2016] [mpm_winnt:notice] [pid 9812:tid 488] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:41:32.609522 2016] [mpm_winnt:notice] [pid 9812:tid 488] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:41:32.609522 2016] [core:notice] [pid 9812:tid 488] AH00094: Command line: 'httpd.exe -d C:/apache'
+[Thu Mar 17 12:41:32.609522 2016] [mpm_winnt:notice] [pid 9812:tid 488] AH00418: Parent: Created child process 9968
+Apache server shutdown initiated...
+uth_digest:notice] [pid 9968:tid 384] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:41:32.843898 2016] [mpm_winnt:notice] [pid 9968:tid 384] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:42:12.390020 2016] [mpm_winnt:notice] [pid 9812:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:42:14.404390 2016] [mpm_winnt:notice] [pid 9968:tid 384] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:42:14.424832 2016] [mpm_winnt:notice] [pid 9812:tid 488] AH00430: Parent: Child process 9968 exited successfully.
+[Thu Mar 17 12:45:29.424557 2016] [auth_digest:notice] [pid 8720:tid 448] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:45:29.428557 2016] [mpm_winnt:notice] [pid 8720:tid 448] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:45:29.428557 2016] [mpm_winnt:notice] [pid 8720:tid 448] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:45:29.428557 2016] [core:notice] [pid 8720:tid 448] AH00094: Command line: 'C:\\webdav-server\\bin\\httpd.exe -d C:/webdav-server'
+[Thu Mar 17 12:45:29.428557 2016] [mpm_winnt:notice] [pid 8720:tid 448] AH00418: Parent: Created child process 9704
+Apache server shutdown initiated...
+uth_digest:notice] [pid 9704:tid 456] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:45:29.788730 2016] [mpm_winnt:notice] [pid 9704:tid 456] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:47:15.290979 2016] [mpm_winnt:notice] [pid 8720:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:47:17.322349 2016] [mpm_winnt:notice] [pid 9704:tid 456] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:47:17.337975 2016] [mpm_winnt:notice] [pid 8720:tid 448] AH00430: Parent: Child process 9704 exited successfully.
+[Thu Mar 17 12:47:22.041031 2016] [auth_digest:notice] [pid 7328:tid 456] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:47:22.056673 2016] [mpm_winnt:notice] [pid 7328:tid 456] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:47:22.056673 2016] [mpm_winnt:notice] [pid 7328:tid 456] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:47:22.056673 2016] [core:notice] [pid 7328:tid 456] AH00094: Command line: 'C:\\webdav-server\\bin\\httpd.exe -d C:/webdav-server'
+[Thu Mar 17 12:47:22.056673 2016] [mpm_winnt:notice] [pid 7328:tid 456] AH00418: Parent: Created child process 6608
+Apache server shutdown initiated...
+uth_digest:notice] [pid 6608:tid 448] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:47:22.291034 2016] [mpm_winnt:notice] [pid 6608:tid 448] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:47:27.900737 2016] [autoindex:error] [pid 6608:tid 1008] [client ::1:2055] AH01276: Cannot serve directory C:/webdav-server/webdav/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Mar 17 12:49:19.139824 2016] [mpm_winnt:notice] [pid 7328:tid 456] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:49:21.164447 2016] [mpm_winnt:notice] [pid 6608:tid 448] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:49:21.180103 2016] [mpm_winnt:notice] [pid 7328:tid 456] AH00430: Parent: Child process 6608 exited successfully.
+[Thu Mar 17 12:50:27.908561 2016] [auth_digest:notice] [pid 6648:tid 120] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:50:27.908561 2016] [mpm_winnt:notice] [pid 6648:tid 120] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 12:50:27.908561 2016] [mpm_winnt:notice] [pid 6648:tid 120] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 12:50:27.908561 2016] [core:notice] [pid 6648:tid 120] AH00094: Command line: 'C:\\webdav-server\\bin\\httpd.exe -d C:/webdav-server'
+[Thu Mar 17 12:50:27.908561 2016] [mpm_winnt:notice] [pid 6648:tid 120] AH00418: Parent: Created child process 9992
+Apache server shutdown initiated...
+uth_digest:notice] [pid 9992:tid 452] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 12:50:28.142955 2016] [mpm_winnt:notice] [pid 9992:tid 452] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 12:52:38.152918 2016] [mpm_winnt:notice] [pid 6648:tid 120] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 12:52:40.196920 2016] [mpm_winnt:notice] [pid 9992:tid 452] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 12:52:40.212653 2016] [mpm_winnt:notice] [pid 6648:tid 120] AH00430: Parent: Child process 9992 exited successfully.
+[Thu Mar 17 13:57:28.430226 2016] [auth_digest:notice] [pid 11540:tid 504] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 13:57:28.434219 2016] [mpm_winnt:notice] [pid 11540:tid 504] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 13:57:28.434219 2016] [mpm_winnt:notice] [pid 11540:tid 504] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 13:57:28.434219 2016] [core:notice] [pid 11540:tid 504] AH00094: Command line: 'C:\\webdav-server\\bin\\httpd.exe -d C:/webdav-server'
+[Thu Mar 17 13:57:28.436215 2016] [mpm_winnt:notice] [pid 11540:tid 504] AH00418: Parent: Created child process 11488
+Apache server shutdown initiated...
+uth_digest:notice] [pid 11488:tid 444] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 13:57:28.927303 2016] [mpm_winnt:notice] [pid 11488:tid 444] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 14:03:28.500363 2016] [mpm_winnt:notice] [pid 11540:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 14:03:30.502630 2016] [mpm_winnt:notice] [pid 11488:tid 444] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 14:03:30.527574 2016] [mpm_winnt:notice] [pid 11540:tid 504] AH00430: Parent: Child process 11488 exited successfully.
+[Thu Mar 17 14:06:49.015096 2016] [auth_digest:notice] [pid 11192:tid 444] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 14:06:49.019071 2016] [mpm_winnt:notice] [pid 11192:tid 444] AH00455: Apache/2.4.18 (Win64) configured -- resuming normal operations
+[Thu Mar 17 14:06:49.019071 2016] [mpm_winnt:notice] [pid 11192:tid 444] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 11:13:29
+[Thu Mar 17 14:06:49.019071 2016] [core:notice] [pid 11192:tid 444] AH00094: Command line: 'C:\\webdav-server\\bin\\httpd.exe -d C:/webdav-server'
+[Thu Mar 17 14:06:49.021068 2016] [mpm_winnt:notice] [pid 11192:tid 444] AH00418: Parent: Created child process 10272
+Apache server shutdown initiated...
+uth_digest:notice] [pid 10272:tid 460] AH01757: generating secret for digest authentication ...
+[Thu Mar 17 14:06:49.486203 2016] [mpm_winnt:notice] [pid 10272:tid 460] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 17 14:07:42.021713 2016] [mpm_winnt:notice] [pid 11192:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 17 14:07:44.022766 2016] [mpm_winnt:notice] [pid 10272:tid 460] AH00364: Child: All worker threads have exited.
+[Thu Mar 17 14:07:44.046645 2016] [mpm_winnt:notice] [pid 11192:tid 444] AH00430: Parent: Child process 10272 exited successfully.
