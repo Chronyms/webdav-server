@@ -1,0 +1,4 @@
+::1 - - [06/Apr/2016:14:21:05 +0200] "GET / HTTP/1.1" 401 381
+::1 - schnupper [06/Apr/2016:14:21:11 +0200] "GET / HTTP/1.1" 200 239
+::1 - schnupper [06/Apr/2016:14:21:11 +0200] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - schnupper [06/Apr/2016:14:21:13 +0200] "GET /test.txt HTTP/1.1" 200 24
